@@ -1,0 +1,32 @@
+NOME,DATA
+CONSUMO FATURADO CATIVO + LIVRE TOTAL,CFCLT
+CONSUMO FATURADO LIVRES TOTAL (SISTEMA INT),CFLT-SI
+CONSUMO FATURADO CATIVO - TOTAL,CFCT
+No Consumidores FATURADO - CELPA  (Cativo + Livre) RES,NC-R
+No Consumidores FATURADO - CELPA  (Cativo + Livre) IND,NC-I
+No Consumidores FATURADO - CELPA  (Cativo + Livre) COM,NC-C
+No Consumidores FATURADO - CELPA  (Cativo + Livre) RUR,NC-RUR
+No Consumidores FATURADO - CELPA  (Cativo + Livre) PPU,NC-PPU
+No Consumidores FATURADO - CELPA  (Cativo + Livre) IPU,NC-IPU
+No Consumidores FATURADO - CELPA  (Cativo + Livre) SPU,NC-SPU
+No Consumidores FATURADO - CELPA  (Cativo + Livre) PRO,NC-PRO
+No Consumidores FATURADO CATIVO + LIVRE TOTAL,NC-TOTAL
+PERDAS TOTAIS (CATIVO + LIVRE),PT
+PERDAS TEC INT,PT-INT
+PERDAS TEC ISSO,PT-ISO
+PERDAS TEC TOTAIS (CATIVO + LIVRE),PT-TOT
+PERDAS NT INT,PNT-INT
+PERDAS NT ISSO,PN-ISO
+PERDAS NT TOTAIS (CATIVO + LIVRE),PNT-TOT
+TEMP MINIMA (C),TEMP-MIN
+TEMP MAXIMA (C),TEMP-MAX
+INDICE PLUVIOMETRICO (mm),I-PLUV
+UMIDADE RELATIVA,U-REL
+Indice de Producao Agropecuaria (numero indice sem ajuste sazonal),IPAGRO
+Massa de renda do programa Bolsa Familia,MR-BF
+Quantidade de familias atendidas pelo Bolsa Familia,Q-BF
+Massa de renda dos beneficios emitidos pela Previdencia Social,MR-PS
+Indice da massa de renda real total (numero indice sem ajuste sazonal),IMR-TOT
+Indice de Atividade Economica Regional,I-AEC
+Producao Fisica Industrial - Industria geral,PFI-IG
+Indice de volume de vendas no comercio varejista ampliado,IV-CVA

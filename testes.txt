@@ -1,0 +1,41 @@
+Testes para estado do Pará
+
+PA 6002 - 
+projeção de consumo com evidências geradas pela tendências
+2 bins
+kmeans
+cativo + livre
+sem cnr
+
+execução:
+cd Source
+python -W ignore faixas_discretizadas.py -n 2 -m "kmeans" -u "cenergel_m_PA_6002" -c "PA" -d "Dados Brutos-PA-CFCLT-semCNR"
+python -W ignore gerar_sugestao.py -n 2 -m "kmeans" -c "PA" -p "n" -z 10 -t "CFCT" -d "Tendencias-PA-semCNR" -u "cenergel_m_PA_6002"
+python -W ignore rede_dinamica.py -n 2 -m "kmeans" -o "m_PA_6002" -u "cenergel" -t "CFCT" -c "PA" -d "Dados Brutos-PA-CFCLT-semCNR"
+
+
+PA 6003 - 
+projeção de consumo com evidências geradas pelo FBProphet
+2 bins
+kmeans
+cativo + livre
+sem cnr
+
+execução:
+cd Source
+python -W ignore faixas_discretizadas.py -n 2 -m "kmeans" -u "cenergel_m_PA_6003" -c "PA" -d "Dados Brutos-PA-CFCLT-semCNR"
+python -W ignore gerar_sugestao.py -n 2 -m "kmeans" -c "PA" -p "y" -z 10 -t "CFCT" -d "Dados Brutos-PA-CFCLT-semCNR" -u "cenergel_m_PA_6003"
+python -W ignore rede_dinamica.py -n 2 -m "kmeans" -o "m_PA_6003" -u "cenergel" -t "CFCT" -c "PA" -d "Dados Brutos-PA-CFCLT-semCNR"
+
+
+CenarioOtimo -
+projeção de consumo com evidências geradas manualmente
+2 bins
+kmeans
+cativo + livre
+sem cnr
+
+execução:
+cd Source
+python -W ignore faixas_discretizadas.py -n 2 -m "kmeans" -u "cenarioOtimo" -c "PA" -d "Dados Brutos-PA-CFCLT-semCNR"
+python -W ignore rede_dinamica.py -n 2 -m "kmeans" -o "cenarioOtimo" -u "cenergel" -t "CFCT" -c "PA" -d "Dados Brutos-PA-CFCLT-semCNR"

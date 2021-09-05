@@ -1,0 +1,31 @@
+certifi==2020.6.20
+cffi==1.14.0
+convertdate==2.2.1
+decorator==4.4.2
+holidays==0.10.3
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+korean-lunar-calendar==0.2.1
+mkl-fft==1.1.0
+mkl-random==1.0.4
+mkl-service==2.3.0
+networkx @ file:///tmp/build/80754af9/networkx_1594377231366/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1596233945180/work
+pandas @ file:///C:/ci/pandas_1596824386248/work
+patsy==0.5.1
+pgmpy @ file:///home/ankur/miniconda3/envs/py36/conda-bld/pgmpy_1593522031025/work
+pip==20.2.2
+pomegranate==0.13.4
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+PyMeeus==0.3.7
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+PyYAML==5.3.1
+scipy==1.5.2
+setuptools==49.6.0.post20200814
+six==1.15.0
+statsmodels==0.11.1
+torch @ file:///C:/ci/pytorch_1596721630134/work
+tqdm @ file:///tmp/build/80754af9/tqdm_1596810128862/work
+wheel==0.34.2
+wincertstore==0.2

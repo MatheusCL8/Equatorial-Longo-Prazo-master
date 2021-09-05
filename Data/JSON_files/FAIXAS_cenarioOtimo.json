@@ -1,0 +1,926 @@
+{
+    "JANEIRO": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            70.7,
+            83.60416640833333,
+            96.7
+        ],
+        "Indice de Atividade Economica Regional": [
+            142.28,
+            159.41642864285714,
+            176.220001
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            170.018860785763,
+            205.10906520485338,
+            251.53847920398601
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            83.6,
+            116.96428521428571,
+            144.699997
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            150783.167256849,
+            195382.95064349458,
+            228739.956934319
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            486733.474,
+            587386.018125,
+            671015.499
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            646724.0,
+            799554.9523809524,
+            954372.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            148.321481174005,
+            194.57051087442161,
+            238.14452598890202
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            656857348.413336,
+            853504369.659811,
+            1020119742.4011301
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            131784.0,
+            156788.2,
+            178859.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            71870.8181398499,
+            88820.7186217611,
+            119413.392179385
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1388562.0,
+            1828240.1,
+            2267973.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3758.0,
+            3912.8999999999996,
+            4063.0
+        ],
+        "TEMP MAXIMA (C)": [
+            31.0612903225806,
+            31.76712645334514,
+            32.6322580645161
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            355.9,
+            470.94505698268597,
+            599.099999999999
+        ]
+    },
+    "FEVEREIRO": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            65.5,
+            76.44583359166667,
+            86.9
+        ],
+        "Indice de Atividade Economica Regional": [
+            134.19,
+            145.7904165,
+            157.669998
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            116.758156156555,
+            136.66303589128538,
+            156.117685594627
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            78.8,
+            96.62083370833334,
+            119.300003
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            98071.7528342589,
+            143341.1741741435,
+            181650.88007871603
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            472395.153,
+            566983.4951666666,
+            649454.128
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            661728.0,
+            824502.0833333333,
+            964196.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            141.486640473255,
+            179.01725131215434,
+            220.473533862501
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            651537569.30061,
+            849360290.5501504,
+            1018837253.24904
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            132066.0,
+            156687.1,
+            177619.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            66458.1889913,
+            80660.28064864805,
+            106300.40315374
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1392733.0,
+            1833342.9,
+            2290128.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3715.0,
+            3902.125,
+            4061.0
+        ],
+        "TEMP MAXIMA (C)": [
+            30.2793103448275,
+            31.35149125687534,
+            32.1999999999999
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            332.9,
+            495.11169959065865,
+            671.6
+        ]
+    },
+    "MARCO": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            78.5,
+            86.712500125,
+            96.9
+        ],
+        "Indice de Atividade Economica Regional": [
+            141.56,
+            153.69583316666666,
+            166.16
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            128.349755854109,
+            159.6163924722847,
+            186.991171834738
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            80.9,
+            105.50000025,
+            130.5
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            166012.94282847,
+            219464.67862150763,
+            264366.156489935
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            514290.826,
+            585195.1454583333,
+            670039.126
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            663252.0,
+            809501.5476190476,
+            975420.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            155.349126373463,
+            199.41005879311643,
+            232.781231998516
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            650679276.453228,
+            847772439.9518073,
+            1019620171.9140099
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            132081.0,
+            156526.4,
+            180072.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            75416.69811153,
+            90121.68797558697,
+            115219.37855093699
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1400567.0,
+            1837501.2,
+            2273636.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3660.0,
+            3892.9,
+            4075.0
+        ],
+        "TEMP MAXIMA (C)": [
+            29.7987096774193,
+            31.186943028953717,
+            32.683870967741896
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            506.599999999999,
+            630.7476239298092,
+            741.77
+        ]
+    },
+    "ABRIL": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            70.4,
+            83.09000031,
+            93.3
+        ],
+        "Indice de Atividade Economica Regional": [
+            139.66,
+            152.6059993,
+            162.4
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            135.10436867284,
+            163.08779578507227,
+            190.24641893667598
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            71.7,
+            101.12916640833333,
+            118.7
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            130507.94324825,
+            183648.3527167156,
+            228827.82574059602
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            506178.689,
+            586011.8934583333,
+            680223.98
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            671713.0,
+            828949.0,
+            977115.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            142.38453428035,
+            182.090389492314,
+            226.577278563058
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            651156570.790272,
+            846479890.3277818,
+            1018786111.2452099
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            133000.0,
+            153995.9166666667,
+            178395.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            71175.21525175,
+            87285.27821484412,
+            113466.92264540099
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1410957.0,
+            1844836.3,
+            2271582.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3566.0,
+            3826.666666666667,
+            4025.0
+        ],
+        "TEMP MAXIMA (C)": [
+            31.0280555555555,
+            31.77577327662818,
+            32.8533333333333
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            377.4,
+            492.16564526028696,
+            604.9
+        ]
+    },
+    "MAIO": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            80.1,
+            90.13999985,
+            100.7
+        ],
+        "Indice de Atividade Economica Regional": [
+            148.0,
+            163.2019044047619,
+            178.509995
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            183.192491014278,
+            216.6124954327362,
+            249.54007534335602
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            85.1,
+            121.81190576190475,
+            143.2
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            174398.348880853,
+            210383.43393277592,
+            239858.040384591
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            513177.626,
+            610323.39475,
+            704572.603
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            664325.0,
+            828545.8333333333,
+            990332.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            159.12687299032,
+            201.8982360497066,
+            243.42649583871102
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            651641127.611831,
+            844952958.6966608,
+            1011138227.5260401
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            133633.0,
+            155066.875,
+            179318.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            76626.62033038,
+            97279.79745492831,
+            121026.509042143
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1419590.0,
+            1859227.7,
+            2282592.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3634.0,
+            3903.583333333333,
+            4298.0
+        ],
+        "TEMP MAXIMA (C)": [
+            31.6483870967741,
+            32.612170115786995,
+            33.454838709677404
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            244.5,
+            347.55776658253785,
+            477.8
+        ]
+    },
+    "JUNHO": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            74.8,
+            85.62083359166667,
+            96.6
+        ],
+        "Indice de Atividade Economica Regional": [
+            156.12,
+            181.96208375,
+            204.740005
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            226.26898959206102,
+            297.91839148917313,
+            380.285047871241
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            97.1,
+            127.88095188095238,
+            158.199997
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            124926.244753869,
+            190108.86604073693,
+            227081.15119205602
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            545454.377,
+            641206.4865,
+            726355.0970000001
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            666723.0,
+            826234.125,
+            976805.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            150.35619340552,
+            196.3084054825835,
+            230.142232085265
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            655039373.953832,
+            844784912.6614914,
+            1006559870.9874699
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            134551.0,
+            155615.0833333333,
+            178461.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            74140.7509861299,
+            95565.06075230692,
+            119322.450022944
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1429839.0,
+            1865306.0,
+            2296460.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3633.0,
+            4061.0625,
+            4406.0
+        ],
+        "TEMP MAXIMA (C)": [
+            32.26,
+            33.06653189687691,
+            33.773333333333305
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            132.79999999999902,
+            221.11530775865,
+            319.8
+        ]
+    },
+    "JULHO": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            78.4,
+            90.06,
+            100.9
+        ],
+        "Indice de Atividade Economica Regional": [
+            153.32,
+            177.285833,
+            200.08999599999999
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            194.284812832347,
+            261.1646982300819,
+            326.181090085378
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            100.0,
+            134.79761854761904,
+            168.199997
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            138495.810800627,
+            176750.85572193516,
+            213292.62304136
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            535256.215,
+            634929.3679583333,
+            730026.6259999999
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            671713.0,
+            808044.7857142857,
+            967507.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            146.260974798128,
+            194.4977451952138,
+            238.786690400134
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            658175828.3248941,
+            845543860.7939991,
+            1006536634.994
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            134627.0,
+            156578.375,
+            179257.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            76008.0624842649,
+            97223.09032922942,
+            121229.794483705
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1438783.0,
+            1876966.4,
+            2300368.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3670.0,
+            3981.625,
+            4369.0
+        ],
+        "TEMP MAXIMA (C)": [
+            32.3354838709677,
+            32.97957842879532,
+            33.764516129032195
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            35.5,
+            181.38760048718342,
+            319.5
+        ]
+    },
+    "AGOSTO": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            77.3,
+            91.02000000000001,
+            103.7
+        ],
+        "Indice de Atividade Economica Regional": [
+            153.72,
+            171.10309502380954,
+            187.949997
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            142.775996966977,
+            169.91657538901927,
+            197.64789877183497
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            105.4,
+            139.03125075,
+            173.300003
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            175943.31944670397,
+            208420.6045756541,
+            249053.461913487
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            531673.0179999999,
+            640543.3215416666,
+            740848.4609999999
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            679676.0,
+            814549.4047619047,
+            965567.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            154.396589012369,
+            197.2584284840083,
+            234.469029861765
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            660562025.046292,
+            846735598.8212638,
+            1009908271.3923801
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            134781.0,
+            157017.375,
+            180054.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            78668.763067575,
+            100066.36646424707,
+            125341.504891763
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1446931.0,
+            1887745.5999999999,
+            2304199.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3731.0,
+            3921.083333333333,
+            4127.0
+        ],
+        "TEMP MAXIMA (C)": [
+            32.587096774193505,
+            33.42854717870948,
+            34.270967741935394
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            84.3999999999999,
+            148.5144323629919,
+            245.9
+        ]
+    },
+    "SETEMBRO": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            71.9,
+            84.37857165,
+            96.9
+        ],
+        "Indice de Atividade Economica Regional": [
+            149.88,
+            165.19119033333334,
+            178.82
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            146.489211704632,
+            175.60294583615584,
+            205.88432191889197
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            99.2,
+            129.0999995,
+            158.0
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            150433.796263648,
+            191899.6913040296,
+            236704.1544236
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            553853.605,
+            653152.2687083334,
+            750647.5809999999
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            678917.0,
+            824082.619047619,
+            950210.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            152.392177399758,
+            190.1649141737211,
+            229.79689126142503
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            660173118.60877,
+            845807352.907448,
+            1010764590.89134
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            135120.0,
+            157021.4583333333,
+            180029.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            78716.01098983,
+            99059.19868251338,
+            123710.61759822699
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1453430.0,
+            1891740.5,
+            2304756.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3715.0,
+            3897.2619047619046,
+            4136.0
+        ],
+        "TEMP MAXIMA (C)": [
+            32.86,
+            33.613074165642956,
+            34.466666666666605
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            45.1,
+            141.86324826304207,
+            220.899999999999
+        ]
+    },
+    "OUTUBRO": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            76.2,
+            94.2374998125,
+            110.9
+        ],
+        "Indice de Atividade Economica Regional": [
+            146.81,
+            161.99125041666667,
+            175.630005
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            113.907106255261,
+            130.61669904810844,
+            152.294766512684
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            100.9,
+            134.59047519047618,
+            163.3
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            173519.68275873,
+            210387.1313608065,
+            241155.56863968
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            552320.076,
+            659650.6887083333,
+            765628.3670000001
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            674681.0,
+            827253.0,
+            957212.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            138.036219445568,
+            179.23347851310746,
+            218.217295384292
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            659766330.002692,
+            845046992.3183774,
+            1005978747.48777
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            135546.0,
+            157139.2916666667,
+            179902.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            80379.53170127,
+            105285.43740774508,
+            129064.094154956
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1461404.0,
+            1900449.0,
+            2313756.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3702.0,
+            3944.708333333333,
+            4258.0
+        ],
+        "TEMP MAXIMA (C)": [
+            33.0483870967741,
+            33.678285688147476,
+            34.4258064516129
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            26.4,
+            108.5908616071159,
+            222.5
+        ]
+    },
+    "NOVEMBRO": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            79.0,
+            93.72999999999999,
+            109.0
+        ],
+        "Indice de Atividade Economica Regional": [
+            148.81,
+            160.91166608333333,
+            173.429993
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            121.691167193482,
+            141.62492193988425,
+            164.370982683
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            102.1,
+            128.27142757142857,
+            151.9
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            114799.618201832,
+            168702.93604359438,
+            218800.445240112
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            548854.835,
+            653682.3841666667,
+            769662.7609999999
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            678576.0,
+            828223.9761904762,
+            972654.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            135.283223771266,
+            175.72604824221804,
+            211.254893872458
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            659676899.700897,
+            912990645.9787048,
+            1201238184.9767098
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            136205.0,
+            157811.625,
+            180073.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            78635.61353116,
+            101764.14578040998,
+            125911.871335065
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1468647.0,
+            1909674.7,
+            2322433.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3747.0,
+            3916.095238095238,
+            4145.0
+        ],
+        "TEMP MAXIMA (C)": [
+            32.72,
+            33.55426055935918,
+            34.6133333333333
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            41.3,
+            157.17722565539356,
+            246.4
+        ]
+    },
+    "DEZEMBRO": {
+        "Indice de volume de vendas no comercio varejista ampliado": [
+            98.8,
+            117.3999998,
+            128.5
+        ],
+        "Indice de Atividade Economica Regional": [
+            160.29,
+            175.39791683333334,
+            188.35
+        ],
+        "Indice de Producao Agropecuaria (numero indice sem ajuste sazonal)": [
+            166.072428162541,
+            198.23811030412807,
+            242.529672125
+        ],
+        "Producao Fisica Industrial - Industria geral": [
+            107.1,
+            132.200000375,
+            157.300003
+        ],
+        "PERDAS NT TOTAIS (CATIVO + LIVRE)": [
+            110974.309934075,
+            169254.52827177307,
+            225367.284239999
+        ],
+        "CONSUMO FATURADO CATIVO - TOTAL": [
+            550527.989,
+            662870.901875,
+            775725.8359999999
+        ],
+        "Quantidade de familias atendidas pelo Bolsa Familia": [
+            680804.0,
+            832022.4285714286,
+            966673.0
+        ],
+        "Indice da massa de renda real total (numero indice sem ajuste sazonal)": [
+            179.946746007977,
+            226.7921353476869,
+            265.69109206046
+        ],
+        "Massa de renda dos beneficios emitidos pela Previdencia Social": [
+            660329794.973611,
+            841878298.5859752,
+            1008246886.3837401
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) COM": [
+            136404.0,
+            157951.6666666667,
+            180238.0
+        ],
+        "PERDAS TEC TOTAIS (CATIVO + LIVRE)": [
+            78764.7025874349,
+            101204.7453692739,
+            126673.513069919
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) RES": [
+            1475157.0,
+            1918211.1,
+            2318091.0
+        ],
+        "No Consumidores FATURADO - CELPA  (Cativo + Livre) IND": [
+            3676.0,
+            3932.0,
+            4231.0
+        ],
+        "TEMP MAXIMA (C)": [
+            31.854838709677402,
+            32.90028295849438,
+            33.996774193548305
+        ],
+        "INDICE PLUVIOMETRICO (mm)": [
+            186.5,
+            294.5706594190272,
+            430.99999999999903
+        ]
+    }
+}
